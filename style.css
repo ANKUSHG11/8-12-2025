@@ -35,7 +35,7 @@ nav { display: flex; justify-content: space-between; align-items: center; }
 
 /* Hero Section */
 section { padding: 100px 0; min-height: 100vh; }
-.hero { position: relative; background: url('https://scontent.fagr4-1.fna.fbcdn.net/v/t39.30808-6/573082387_1411896877603855_2552026723732884423_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=9SWT83ns5ZgQ7kNvwGe9yza&_nc_oc=AdmbAKVjsCz6iMHFtW-M-ZD-kPmmOyrWxGt53YQ6db_AAyTHCZU5SjOylmXfC31J9D1_rT7egGUqGoSMIXrL7aD6&_nc_zt=23&_nc_ht=scontent.fagr4-1.fna&_nc_gid=05gzfYTk49OudKNV7HniMw&oh=00_Aflr3P80YhGS6yZfzxZrA71Wn4tv524FphoLvtLKaynFEw&oe=693C5996') no-repeat center/cover; color: #fff; display: flex; align-items: center; justify-content: center; text-align: center; }
+.hero { position: relative; background: url('Chathura Supun Bandara  HERO.jpg') no-repeat center/cover; color: #fff; display: flex; align-items: center; justify-content: center; text-align: center; }
 .hero::before { content: ""; position: absolute; width: 100%; height: 100%; top:0; left:0; background: rgba(0,0,0,0.5); z-index:1; }
 .hero-content { position: relative; z-index:2; max-width: 650px; }
 .hero h1 { font-size: 3em; margin-bottom: 20px; }
@@ -90,3 +90,4 @@ button[type="submit"] { width: 100%; }
 footer { background: #1D1D1D; color: #fff; text-align: center; padding: 30px 0; }
 footer a { color: #E63946; transition: color 0.3s; }
 footer a:hover { color: #fff; }
+
